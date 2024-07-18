@@ -23,5 +23,3 @@
 18 - develop merge commit
 
 22 - adding changes
-
-23 - gona be revert
