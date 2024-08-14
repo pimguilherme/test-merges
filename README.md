@@ -12,3 +12,5 @@
 7
 8
 9
+
+email da stone
