@@ -13,4 +13,5 @@
 8
 9
 
-email da stone +1
+email da stone +1 
+commit pela IDE
