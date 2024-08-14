@@ -15,3 +15,5 @@
 
 email da stone +1 
 commit pela IDE
+
+commit pela IDE - mudei o name para Thainá Jardim
