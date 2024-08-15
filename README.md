@@ -12,3 +12,15 @@
 7
 8
 9
+
+email da stone +1 
+commit pela IDE
+
+commit pela IDE - mudei o name para Thainá Jardim
+
+commit pela IDE - mudei o name e email para Thainá Aguiar
+
+commit pela IDE - mudei o email stone1
+
+commit pela IDE - mudei o name para taguiar
+
